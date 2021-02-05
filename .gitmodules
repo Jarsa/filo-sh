@@ -7,3 +7,8 @@
 	path = server-tools
 	url = git@github.com:jarsa/server-tools.git
 	branch = 14.0
+
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:jarsa/server-backend.git
+	branch = 14.0
