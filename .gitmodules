@@ -17,3 +17,7 @@
 	path = credit-control
 	url = git@github.com:jarsa/credit-control.git
 	branch = 14.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:jarsa/mexico.git
+	branch = 14.0
