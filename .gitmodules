@@ -26,3 +26,8 @@
 	path = product-attribute
 	url = git@github.com:Jarsa/product-attribute.git
 	branch = 14.0
+
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:Jarsa/sale-workflow.git
+	branch = 14.0
