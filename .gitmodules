@@ -36,3 +36,7 @@
 	path = purchase-workflow
 	url = git@github.com:Jarsa/purchase-workflow.git
 	branch = 14.0
+[submodule "account-fix-tools"]
+	path = account-fix-tools
+	url = git@github.com:jarsa/account-fix-tools.git
+	branch = 14.0
