@@ -40,3 +40,7 @@
 	path = account-fix-tools
 	url = git@github.com:jarsa/account-fix-tools.git
 	branch = 14.0
+[submodule "filo"]
+	path = filo
+	url = git@git.vauxoo.com:jarsa/filo.git
+	branch = 14.0
