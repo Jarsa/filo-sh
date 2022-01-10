@@ -42,7 +42,7 @@
 	branch = 14.0
 [submodule "filo"]
 	path = filo
-	url = git@git.vauxoo.com:jarsa/filo.git
+	url = git@git.vauxoo.com:jarsa-dev/filo.git
 	branch = 14.0
 
 [submodule "stock-logistics-warehouse"]
