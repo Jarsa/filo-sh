@@ -1,3 +1,6 @@
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:jarsa/mexico.git
+[submodule "filo"]
+	path = filo
+	url = git@git.vauxoo.com:jarsa/filo.git
