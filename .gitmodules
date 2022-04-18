@@ -22,3 +22,8 @@
 	path = product-attribute
 	url = git@github.com:Jarsa/product-attribute.git
 	branch = 15.0
+
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:Jarsa/credit-control.git
+	branch = 15.0
