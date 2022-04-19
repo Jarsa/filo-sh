@@ -32,3 +32,8 @@
 	path = odoo-utilities
 	url = git@github.com:Jarsa/odoo-utilities.git
 	branch = 15.0
+
+[submodule "odoo-utilities-sh"]
+	path = odoo-utilities-sh
+	url = git@github.com:jarsa/odoo-utilities.git
+	branch = 15.0
