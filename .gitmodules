@@ -47,3 +47,8 @@
 	path = l10n-mexico
 	url = git@github.com:Jarsa/l10n-mexico.git
 	branch = 15.0
+
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:Jarsa/server-backend.git
+	branch = 15.0
