@@ -37,3 +37,8 @@
 	path = odoo-utilities-sh
 	url = git@github.com:jarsa/odoo-utilities.git
 	branch = 15.0
+
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:Jarsa/partner-contact.git
+	branch = 15.0
