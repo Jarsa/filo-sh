@@ -52,3 +52,7 @@
 	path = server-backend
 	url = git@github.com:Jarsa/server-backend.git
 	branch = 15.0
+[submodule "jarsa-mexico"]
+	path = jarsa-mexico
+	url = git@git.vauxoo.com:jarsa/jarsa-mexico.git
+	branch = 15.0
